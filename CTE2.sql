@@ -7,7 +7,6 @@ WITH Company_job_count AS (-- CTE DEFINITION STARTS HERE
             job_postings_fact
         GROUP BY 
             company_id
-            company_op
 )
 
 SELECT 
