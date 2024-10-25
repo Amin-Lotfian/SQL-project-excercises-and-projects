@@ -1,6 +1,7 @@
 
 /* WE KNEW BEFORE THAT THE TIME ZONES ARE UTC, AND WE WANTED TO 
 CHANGE THEM TO EST */
+/* go through here to see different time zones: postgresql.org/docs/7.2/timezones.html  */
 
 SELECT
 JOB_TITLE_SHORT AS TITLE,
